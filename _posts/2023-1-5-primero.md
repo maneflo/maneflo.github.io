@@ -20,6 +20,6 @@ nos vemos!!
 # Paso canal de FediverseTV
 [FediverseTV- El_Prof3_Ju4n](https://fediverse.tv/c/manieflo_channel/videos)
 
-# tambien estoy en YT
+# tambin estoy en YT
 
 [El Canal del Profe Juan](https://www.youtube.com/channel/UCbLeBKWLvry6VPeen-lN6sQ)
