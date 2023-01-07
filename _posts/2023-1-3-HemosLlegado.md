@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Hemos llegado
+comments: true
+title: Hemos llegado 
 ---
 
 Acá estoy disfrutando de mi ciudad natal Monte Caseros Corrientes  
