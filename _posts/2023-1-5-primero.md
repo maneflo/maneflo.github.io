@@ -17,4 +17,8 @@ Que la pasen lindo, y si les sirve compartan.
 
 nos vemos!!
 Paso canal de FediverseTV
-https://fediverse.tv/c/manieflo_channel/videos
+[Canal de FediverseTV Manieflo](https://fediverse.tv/c/manieflo_channel/videos)
+
+tambien estoy en YT
+
+[El Canal del Profe Juan](https://www.youtube.com/channel/UCbLeBKWLvry6VPeen-lN6sQ)
