@@ -10,6 +10,10 @@ Estoy en el ámbito de la Educación tanto secundaria como terciaria utilizando 
 
 Me gusta la tecnología e investigar por mi cuenta las herramientas, me gusta disfrutar de la naturaleza y los amigos!.
 
+## Canales de Video
+https://fediverse.tv/c/manieflo_channel/videos  
+
+
 ### Contáctame en la redes que están abajo o por mail
 
 [mi correo](mailto:juflores4@abc.gob.ar)
