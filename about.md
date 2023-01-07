@@ -16,6 +16,6 @@ Me gusta la tecnología e investigar por mi cuenta las herramientas, me gusta di
 [FediverseTV El_Prof3_Ju4n](https://fediverse.tv/c/manieflo_channel/videos)  
 [El Canal del Profe Juan](https://www.youtube.com/channel/UCbLeBKWLvry6VPeen-lN6sQ)
 
-### Contáctame en las redes que están abajo o por mail
+### Contáctame en las redes vvvque están abajo o por mail
 
 [mi correo](mailto:juflores4@abc.gob.ar)
