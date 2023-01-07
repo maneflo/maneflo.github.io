@@ -11,7 +11,7 @@ Estoy en el ámbito de la Educación tanto secundaria como terciaria utilizando 
 Me gusta la tecnología e investigar por mi cuenta las herramientas, me gusta disfrutar de la naturaleza y los amigos!.
 
 ## Canales de Video
-[El canal en FediverseTV manieflo](https://fediverse.tv/c/manieflo_channel/videos)  
+[FediverseTV ElProf3Ju4n](https://fediverse.tv/c/manieflo_channel/videos)  
 [El Canal del Profe Juan](https://www.youtube.com/channel/UCbLeBKWLvry6VPeen-lN6sQ)
 
 ### Contáctame en la redes que están abajo o por mail
