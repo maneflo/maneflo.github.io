@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Acerca de mi
+title: Proyectos
 permalink: /Proyectos/
 ---
 <hr>
