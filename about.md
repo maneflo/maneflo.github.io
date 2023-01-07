@@ -1,6 +1,6 @@
 ---
 layout: page
-comments: true
+comments: false
 title: Acerca de mi
 permalink: /about/
 
