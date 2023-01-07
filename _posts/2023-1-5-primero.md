@@ -17,7 +17,7 @@ Que la pasen lindo, y si les sirve compartan.
 
 nos vemos!!
 Paso canal de FediverseTV
-[Canal de FediverseTV Manieflo](https://fediverse.tv/c/manieflo_channel/videos)
+[FediverseTV- El_Prof3_Ju4n](https://fediverse.tv/c/manieflo_channel/videos)
 
 tambien estoy en YT
 
