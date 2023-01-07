@@ -14,6 +14,7 @@ comments: true
     Escrito o Editado el  {{ page.date | date: "%B %e, %Y" }}
   </div>
 
-  {% include disqus.html %}
+  {% if page.comments %} 
   <script id="dsq-count-scr" src="//manieflo.disqus.com/count.js" async></script>
+  {% endif %}
 </article>
