@@ -16,3 +16,5 @@ Probando el markdown , si bien lo uso en *obsidian* adapto algunas cosas y va co
 Que la pasen lindo, y si les sirve compartan.
 
 nos vemos!!
+Paso canal de FediverseTV
+https://fediverse.tv/c/manieflo_channel/videos
