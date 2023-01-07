@@ -3,7 +3,7 @@ layout: page
 title: Acerca de mi
 permalink: /about/
 ---
-
+<hr>
 Estoy en el ámbito de la Educación tanto secundaria como terciaria utilizando software_Libre desde fines del siglo pasado ( mi primera instalación fue con un cd con un gnu/linux en formato rpm creo era Redhat, en una 386 clon!)
 
 ### Mis intereses principales son:
