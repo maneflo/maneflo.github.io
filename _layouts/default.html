@@ -38,6 +38,10 @@
     <div id="main" role="main" class="container">
       {{ content }}
     </div>
+    
+  {% if page.comments %} 
+  <script id="dsq-count-scr" src="//manieflo.disqus.com/count.js" async></script>
+  {% endif %}
 
     <div class="wrapper-footer">
       <div class="container">
@@ -48,6 +52,6 @@
     </div>
 
     {% include analytics.html %}
-    <script id="dsq-count-scr" src="//manieflo.disqus.com/count.js" async></script>
+    
   </body>
 </html>
