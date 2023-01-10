@@ -1,7 +1,8 @@
 ---
-layout: post
 comments: true
+layout: post
 title: Primer post
+
 ---
 
 # Primer post del año
