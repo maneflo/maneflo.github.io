@@ -6,7 +6,7 @@ permalink: /about/
 
 ---
 <hr>
-Estoy en el ámbito de la Educación tanto secundaria como terciaria utilizando software_Libre desde fines del siglo pasado ( mi primera instalación fue con un cd con un gnu/linux en formato rpm creo era Redhat, en una 386 clon!)
+Estuve en el ámbito de la Educación tanto secundaria como terciaria utilizando software_Libre desde fines del siglo pasado ( mi primera instalación fue con un cd con un gnu/linux en formato rpm creo era Redhat, en una 386 clon!) Actualmente me encuentro jubilado de mis actividades académicas.
 
 ### Mis intereses principales son:
 
@@ -18,4 +18,4 @@ Me gusta la tecnología e investigar por mi cuenta las herramientas, me gusta di
 
 ### Contáctame en las redes que están abajo o por mail
 
-[mi correo](mailto:juflores4@abc.gob.ar)
+[mi correo](mailto:manieflo@disroot.org)
